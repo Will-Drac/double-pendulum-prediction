@@ -1,0 +1,24 @@
+# animation_size = (l_sim + 2*rcm_sim)
+# fig, ax1 = plt.subplots()
+
+# # Subplot 1: Pendulum visualization
+# ax1.set_aspect('equal')
+# ax1.set_xlim(-animation_size, animation_size)
+# ax1.set_ylim(-animation_size, animation_size)
+
+# line, = ax1.plot([], [], "o-", lw=2, label="Pendulum")
+
+# def init():
+#     line.set_data([], [])
+#     return line,
+
+# def update(i):
+#     this_x = [0, x1_sim[i], x2_sim[i]]
+#     this_y = [0, y1_sim[i], y2_sim[i]]
+
+#     line.set_data(this_x, this_y)
+#     return line,
+
+# ani = FuncAnimation(fig, update, frames=len(theta_sim), init_func=init, blit=True, interval=1/h)
+
+# ani.save("test.mp4")
