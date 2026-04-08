@@ -1,0 +1,8 @@
+Long arm: I = 0.00216 pm 0.0001  Rcm = 11.7 pm 0.025    m = 108.5 g
+
+Short arm: I = 0.00103 pm 0.00004  rcm = 9.225 pm 0.025 m = 86 g
+
+pivot centers are 19.05mm from the edges, so
+
+long arm inter-pivot: 23.4 - 2*1.905 = 19.59 pm 0.005
+short arm inter-pivot: 18.45 - 2*1.905 = 14.64 pm 0.005
