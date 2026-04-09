@@ -1,6 +1,6 @@
-Long arm: I = 0.00216 pm 0.0001  Rcm = 11.7 pm 0.025    m = 108.5 g
+Long arm: I = 0.00216 pm 0.0001  Rcm = 11.7 pm 0.025 cm    m = 108.5 g
 
-Short arm: I = 0.00103 pm 0.00004  rcm = 9.225 pm 0.025 m = 86 g
+Short arm: I = 0.00103 pm 0.00004  rcm = 9.225 pm 0.025    m = 86 g
 
 pivot centers are 19.05mm from the edges, so
 
